@@ -1,0 +1,53 @@
+[
+    {
+        "id": "zapatilla-01",
+        "titulo": "Zapatilla 01",
+        "imagen": "./img/zapatillas/01.jpg",
+        "categoria": {
+            "nombre": "Zapatillas",
+            "id": "zapatillas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "zapatilla-02",
+        "titulo": "Zapatilla 02",
+        "imagen": "./img/zapatillas/02.jpg",
+        "categoria": {
+            "nombre": "Zapatillas",
+            "id": "zapatillas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "zapatilla-03",
+        "titulo": "Zapatilla 03",
+        "imagen": "./img/zapatillas/03.jpg",
+        "categoria": {
+            "nombre": "Zapatillas",
+            "id": "zapatillas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "medias-01",
+        "titulo": "Medias 01",
+        "imagen": "./img/medias/01.jpg",
+        "categoria": {
+            "nombre": "Medias",
+            "id": "medias"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cadenas-01",
+        "titulo": "cadenas 01",
+        "imagen": "./img/cadenas/01.jpg",
+        "categoria": {
+            "nombre": "Cadenas",
+            "id": "cadenas"
+        },
+        "precio": 1000
+    }
+    
+]
